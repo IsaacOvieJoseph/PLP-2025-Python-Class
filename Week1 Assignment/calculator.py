@@ -9,6 +9,7 @@ while continuityCheck:
 # Collect user's interested arithmetic operation
   while inValidOperator:
     Operator = input("\n 1 => Add \n 2 => Substract \n 3 => Multiply \n 4 => Divide \n \nInput ( 1 - 4 ) to select your desired arithmetic operator: ")
+    
     if int(Operator) in range(1,5):
       inValidOperator = False
     else:
