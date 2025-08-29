@@ -3,7 +3,7 @@
 This Repo is for my Python class in Power Learn Project Africa Scholarship Program 
 
 # Week 1 : A simple calculator
-  A simple python script that is capable of carrying out **+ - / x** arithmetic operations.
+  A simple python script that is capable of carrying out **(+ - / x )** arithmetic operations.
   It collects user's two (2) operands at a time and allows the user to decide which operation is to be carried out 
 
 # Week 2 : List Operations
