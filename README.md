@@ -12,8 +12,8 @@ This Repo is for my Python class in Power Learn Project Africa Scholarship Progr
 
 # Week 4 : File Handling and Error Exception
 A simple python script that is capable of turning all letters in a file into uppercase and save this modified content into a different file.
-It allows user give upload the input file by submitting the file path 
-It allows user to determine name of the output file.
+
+User uploads the input file by submitting the file path and aso determines name of the output file.
 - Input file requires file path including the file's extension
 - User does not need to include extension in the output file name - the program saves its output as .txt file
 
